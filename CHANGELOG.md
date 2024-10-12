@@ -7,6 +7,9 @@
 * `tryDisplay` method added to ask user feedback periodically.
 * `display` method added to ask user feedback instantly.
 
+## [1.0.0] - 12 Oct 2024
+* Update dependencies to latest version
+
 ## [0.0.2] - 29 Jun 2021
 * Migrate to null safety
 * Rename `reset` method to `clearConfig`
