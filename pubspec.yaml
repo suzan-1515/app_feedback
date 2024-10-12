@@ -1,7 +1,7 @@
 name: app_feedback
 description: A Flutter package for getting app feedback from users.
-version: 0.0.2
-homepage: https://github.com/TheAlphamerc/app_feedback
+version: 1.0.0
+homepage: https://github.com/suzan-1515/app_feedback
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
