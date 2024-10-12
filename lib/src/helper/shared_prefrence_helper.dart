@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:app_feedback/src/model/feedback.dart';
+import 'package:user_feedback/src/model/feedback.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SharedPreferenceHelper {

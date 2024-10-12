@@ -1,10 +1,10 @@
-import 'package:app_feedback/src/cubit/feedback_cubit.dart';
-import 'package:app_feedback/src/helper/shared_prefrence_helper.dart';
-import 'package:app_feedback/src/helper/util.dart';
-import 'package:app_feedback/src/model/feedback.dart';
-import 'package:app_feedback/src/model/options.dart';
-import 'package:app_feedback/src/widget/feedback_sheet.dart';
-import 'package:app_feedback/src/widget/rating_button.dart';
+import 'package:user_feedback/src/cubit/feedback_cubit.dart';
+import 'package:user_feedback/src/helper/shared_prefrence_helper.dart';
+import 'package:user_feedback/src/helper/util.dart';
+import 'package:user_feedback/src/model/feedback.dart';
+import 'package:user_feedback/src/model/options.dart';
+import 'package:user_feedback/src/widget/feedback_sheet.dart';
+import 'package:user_feedback/src/widget/rating_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 part 'app_feedback_impl.dart';

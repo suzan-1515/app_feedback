@@ -1,8 +1,8 @@
-import 'package:app_feedback/app_feedback.dart';
-import 'package:app_feedback/src/cubit/feedback_cubit.dart';
-import 'package:app_feedback/src/theme/theme.dart';
-import 'package:app_feedback/src/widget/custom_button.dart';
-import 'package:app_feedback/src/widget/rating_button.dart';
+import 'package:user_feedback/user_feedback.dart';
+import 'package:user_feedback/src/cubit/feedback_cubit.dart';
+import 'package:user_feedback/src/theme/theme.dart';
+import 'package:user_feedback/src/widget/custom_button.dart';
+import 'package:user_feedback/src/widget/rating_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

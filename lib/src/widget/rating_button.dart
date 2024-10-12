@@ -1,6 +1,6 @@
-import 'package:app_feedback/src/model/rating_button/rating_button_theme_data.dart';
+import 'package:user_feedback/src/model/rating_button/rating_button_theme_data.dart';
 import 'package:flutter/material.dart';
-import 'package:app_feedback/src/theme/theme.dart';
+import 'package:user_feedback/src/theme/theme.dart';
 
 typedef RatingButtonBuilder = Widget Function(
   BuildContext context,

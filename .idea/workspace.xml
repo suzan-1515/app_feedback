@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99446c24-e06a-48ea-8652-3eb36c8b9e2f" name="Changes" comment="updated versions.">
-      <change afterPath="$PROJECT_DIR$/.pubignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app_feedback.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user_feedback.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/cubit/feedback_cubit.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/cubit/feedback_cubit.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/feedback/app_feedback.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/feedback/app_feedback.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/helper/shared_prefrence_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/helper/shared_prefrence_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/model/options.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/model/options.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/widget/feedback_sheet.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/widget/feedback_sheet.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/widget/rating_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/widget/rating_button.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728701277344</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated versions.">
+      <option name="closed" value="true" />
+      <created>1728701824665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728701824665</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">

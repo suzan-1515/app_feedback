@@ -1,4 +1,4 @@
-import 'package:app_feedback/src/model/rating_button/rating_button_theme_data.dart';
+import 'package:user_feedback/src/model/rating_button/rating_button_theme_data.dart';
 import 'package:flutter/material.dart';
 
 class FeedbackConfig {

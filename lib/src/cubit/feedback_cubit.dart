@@ -1,5 +1,5 @@
-import 'package:app_feedback/app_feedback.dart';
-import 'package:app_feedback/src/helper/shared_prefrence_helper.dart';
+import 'package:user_feedback/user_feedback.dart';
+import 'package:user_feedback/src/helper/shared_prefrence_helper.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 part 'feedback_state.dart';

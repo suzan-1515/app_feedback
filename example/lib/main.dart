@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:app_feedback/app_feedback.dart';
+import 'package:user_feedback/user_feedback.dart';
 import 'package:flutter/material.dart';
 
 void main() {
