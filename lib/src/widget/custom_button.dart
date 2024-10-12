@@ -33,17 +33,17 @@ class CustomButton extends StatelessWidget {
           return TextButton(
             style: buttonStyle ??
                 ButtonStyle(
-                    padding: MaterialStateProperty.all(padding),
-                    shape: MaterialStateProperty.all(
+                    padding: WidgetStateProperty.all(padding),
+                    shape: WidgetStateProperty.all(
                       RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(6)),
                     ),
-                    backgroundColor: MaterialStateProperty.all(
+                    backgroundColor: WidgetStateProperty.all(
                       !isColored
                           ? null
                           : color ?? Theme.of(context).primaryColor,
                     ),
-                    foregroundColor: MaterialStateProperty.all(
+                    foregroundColor: WidgetStateProperty.all(
                       Theme.of(context).colorScheme.onPrimary,
                     )),
             onPressed: loading ? null : onPressed as void Function()?,

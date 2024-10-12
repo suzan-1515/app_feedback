@@ -1,8 +1,5 @@
 import 'package:app_feedback/app_feedback.dart';
 import 'package:app_feedback/src/cubit/feedback_cubit.dart';
-import 'package:app_feedback/src/model/feedback.dart';
-import 'package:app_feedback/src/model/options.dart';
-import 'package:app_feedback/src/model/rating_button/rating_button_theme_data.dart';
 import 'package:app_feedback/src/theme/theme.dart';
 import 'package:app_feedback/src/widget/custom_button.dart';
 import 'package:app_feedback/src/widget/rating_button.dart';

@@ -1,9 +1,7 @@
 import 'package:app_feedback/app_feedback.dart';
 import 'package:app_feedback/src/helper/shared_prefrence_helper.dart';
-import 'package:app_feedback/src/model/options.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:app_feedback/src/model/feedback.dart';
 part 'feedback_state.dart';
 
 class FeedbackCubit extends Cubit<FeedbackState> {
